@@ -1,0 +1,2 @@
+# Movies
+Kinolar jamlanmasi
